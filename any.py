@@ -1,6 +1,6 @@
 import random
 import math
-
+#Pizza
 class Warrior:
     def __init__(self, name='Warrior', health=0, attackMax=0, blockMax=0):
         self.name = name
